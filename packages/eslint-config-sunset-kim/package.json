@@ -9,7 +9,5 @@
     "eslint-plugin-react": "7.29.4",
     "eslint-config-turbo": "latest"
   },
-  "publishConfig": {
-    "@sunset-kim:registry": "https://npm.pkg.github.com"
-  }
+  "publishConfig": {}
 }
